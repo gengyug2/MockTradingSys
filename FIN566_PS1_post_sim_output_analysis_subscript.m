@@ -1,3 +1,5 @@
+% by Johnny MOON
+
 transaction_price_volume_stor_mat=sortrows(transaction_price_volume_stor_mat(transaction_price_volume_stor_mat(:,2)~=0,:),-1);
 
 % total number of the trades
