@@ -2,7 +2,7 @@
 % This engine is supposed to update live order lists
 % and tell whether there is a transaction
 
-% by JohnnyMOON
+% by Johnny MOON
 
 ind=1;
 traded_q=0;
