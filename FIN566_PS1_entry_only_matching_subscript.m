@@ -1,4 +1,3 @@
-%% %*****Matching Engine***** \n
 % This engine is supposed to update live order lists
 % and tell whether there is a transaction
 
