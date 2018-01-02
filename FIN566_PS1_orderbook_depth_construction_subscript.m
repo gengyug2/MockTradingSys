@@ -1,3 +1,5 @@
+% by Johnny MOON
+
 live_buy=live_buy_orders_list(live_buy_orders_list(:,7)==1,:);
 [prices,~,rowIdx]=unique(live_buy(:,3),'rows');
 subtotal=accumarray(rowIdx,live_buy(:,4),[],@sum);
